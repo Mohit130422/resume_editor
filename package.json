@@ -1,0 +1,31 @@
+{
+  "name": "mohit-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/react-fontawesome": "^3.5.0",
+    "html2canvas-pro": "^1.5.11",
+    "jspdf": "^3.0.1",
+    "next": "16.2.12",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.11",
+    "@types/node": "^22.13.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.11",
+    "typescript": "^5.7.0"
+  },
+  "allowScripts": {
+    "sharp@0.34.5": true,
+    "core-js@3.49.0": true
+  }
+}
