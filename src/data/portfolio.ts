@@ -46,14 +46,14 @@ export type SmallProject = { name: string; url: string };
 
 export const profile = {
   name: "Mohit Varshney",
-  role: "Senior Frontend Developer",
+  role: "Senior Frontend Developer | React.js | Next.js | TypeScript | JavaScript",
   headline: "Senior Frontend Engineer | React • Next.js • TypeScript",
   // Hero ke liye chhota tagline
   tagline:
     "Building scalable, AI-ready, high-performance web applications with React, Next.js and modern frontend architecture.",
   // Resume summary (PDF me bhi yahi jaata hai)
   summary:
-    "Senior Frontend Developer with 4.5+ years of experience building scalable, high-performance web applications using React.js, Next.js, TypeScript, and modern JavaScript. Specialized in performance optimization, reusable component architecture, SEO, and responsive UI development. Experienced in delivering enterprise-grade applications, integrating REST/GraphQL APIs, and leveraging AI-assisted development tools like GitHub Copilot, Cursor AI, and ChatGPT to accelerate development and improve code quality. Currently expanding into full-stack development with Node.js and Express.js.",
+    "Senior Frontend Developer with 4.5+ years of experience building scalable, high-performance web applications using React.js, Next.js, TypeScript, and JavaScript. Experienced in frontend architecture, reusable component development, state management, API integration, responsive UI development, SEO, and web performance optimization. Proven track record of improving application performance, modernizing legacy codebases, building reusable component systems, and collaborating with cross-functional teams to deliver production-grade applications. Experienced in mentoring junior developers and currently expanding into full-stack development with Node.js and Express.js.",
   yearsOfExperience: "4.5+",
   availableForWork: true,
   resumeFileName: "Mohit-Varshney-Frontend-Developer.pdf",
