@@ -340,6 +340,12 @@ export const certifications: Certification[] = [
 
 export const education: Education[] = [
   {
+    degree: "Master of Computer Application (MCA)",
+    institute: "Galgotia's University",
+    location: "Greater Noida, Uttar Pradesh",
+    period: "Pursuing",
+  },
+  {
     degree: "Bachelor in Computer Application (BCA)",
     institute: "Indira Gandhi National Open University",
     location: "New Delhi, India",
